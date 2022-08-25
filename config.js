@@ -4,8 +4,8 @@ global.mods = ['0']
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'R U L L'
-global.numberowner = '6285746030186'
+global.nameowner = 'Nama Owner'
+global.numberowner = '6285746030186' \\Nomor Kamu
 global.instagram = '-'
 global.github = '-'
 global.dana = '-'
@@ -13,7 +13,7 @@ global.pulsa = '-'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'PixelBot'
+global.namebot = 'Nama Bot'
 global.gc = 'https://t.me/pixelbotwhatsapp'
 global.web = 'https://t.me/pixelbotwhatsapp' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 15K\n2 Minggu 10K\n1 Minggu 5K'
