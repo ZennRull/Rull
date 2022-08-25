@@ -1,4 +1,4 @@
-//=============『 Utama 』================== //
+//=============『 MAIN 』================== //
 global.owner = ['6285746030186', '6285607831410'] // Ganti Jadi Nomormu
 global.mods = ['0'] 
 global.prems = [''] 
@@ -85,7 +85,7 @@ global.APIKeys = { // APIKey Here
 }
 
 //=============『 RPG GAMES 』================== //
-global.multiplier = 20 // The higher, The harder levelup
+global.multiplier = 30 // The higher, The harder levelup
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
