@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6285746030186', '6285607831410']
+global.owner = ['6285746030186', '6285607831410'] // Ganti Jadi Nomormu
 global.mods = ['0'] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Nama Owner'
-global.numberowner = '6285746030186' \\ Nomor Kamu //
+global.numberowner = '6285746030186' // Ganti Jadi Nomor mu
 global.instagram = '-'
 global.github = '-'
 global.dana = '-'
