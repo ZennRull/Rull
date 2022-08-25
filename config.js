@@ -5,7 +5,7 @@ global.prems = ['']
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Nama Owner'
-global.numberowner = '6285746030186' \\Nomor Kamu
+global.numberowner = '6285746030186' \\ Nomor Kamu //
 global.instagram = '-'
 global.github = '-'
 global.dana = '-'
