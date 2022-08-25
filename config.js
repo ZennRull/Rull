@@ -7,7 +7,7 @@ global.prems = ['']
 global.nameowner = 'Nama Owner'
 global.numberowner = '6285746030186' // Ganti Jadi Nomor mu
 global.instagram = '-' // Ig Kamu
-global.github = '-' // Github kamu (biarin aja kalau gaada)
+global.github = 'https://github.com/ZennRull' // Github kamu (biarin aja kalau gaada)
 global.dana = '-' //Dana pulsa gopay
 global.pulsa = '-'
 global.gopay = '-'
@@ -92,7 +92,7 @@ global.rpg = {
     let emot = {
       exp: '✉️',
       money: '💵',
-      potion: '🥤',
+      potion: '🍵',
       diamond: '💎',
       common: '📦',
       uncommon: '🎁',
