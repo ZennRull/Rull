@@ -1,3 +1,227 @@
-z="
-";sOz='ng\n';tJz='lena';oIz='er: ';lHz=''\''clu';pGz='ta))';mJz='tmpd';iBz='/lib';DKz=', '\''-';OQz='lder';YDz='n.ca';ZEz='xp('\''';bDz='nn, ';XUz='ose'\''';jPz='r.pa';aNz='(res';XMz='e.ca';HVz='bp,';SMz='ire.';wDz='al.o';VLz='e))';xJz='wn('\''';CMz='/';LFz=''\''db'\''';lz=' = r';vQz='r, f';GJz='.mak';QNz='leng';ICz='/'\'', ';DPz='rkur';iIz='l: t';iQz='enam';ABz='t _ ';GPz='.spr';SDz='Call';uBz='ngoD';WBz='le'\'')';yNz='ions';jTz='el'\'',';bLz='.str';xCz='yque';rRz='[fil';kBz='db'\'')';mUz='peg,';jSz='es(g';fBz='tch ';xPz='nn.h';FBz='ntax';xUz='est';OJz=']) {';NKz='}, 3';vVz='ed w';ZGz='{ (!';kLz='unca';uOz='rup ';FPz='satu';qKz=' las';bBz='low ';rFz='ATAB';HQz='on.u';NOz='arti';OOz='cipa';TJz='sync';BVz='rt =';vLz='"'\''])';UMz='e) d';tFz='= gl';mCz='earc';sQz='ns[f';GQz='Dele';HOz='sert';pEz='\-'\'')';mz='equi';FLz='s.re';HUz='nd'\'',';eVz='endi';yWz='('\''Qu';FXz='le.e';tNz='impl';IKz='pe'\'',';hz='uire';GOz='s.up';FEz='ss.a';mBz='t { ';PEz='// c';nKz='or.o';KDz=' : '\''';cCz=' + p';VDz=') { ';qUz='Webp';nPz='.onD';FDz='Keys';SSz='oadi';ZKz='on, ';jGz='a ==';ENz='= '\''o';iCz='? '\''?';AUz='('\''co';eLz='e, n';DRz='me]';VRz='[dir';eNz='ler ';oQz='(plu';dWz='k wi';JRz='(fil';kMz='rray';Az='requ';cFz='oDB(';RRz='re.c';qLz='// l';jQz='e of';JFz='/.te';wz='chil';POz='nts.';uIz='),';dSz='nall';JCz='quer';LKz='te'\'']';LCz='{}, ';fIz='tQRI';dNz='hand';RGz='romi';sGz='1 * ';jUz='])';dRz='re p';jFz='] + ';LSz='gger';XFz='opts';RUz='[';dBz=''\'')';gPz='ate ';BFz='&'\'') ';bOz='nDel';oOz='come';pMz=' mod';rTz='lor'\''';jHz='// i';AJz='4, 1';ETz=', '\''p';iLz='ess.';CTz='in(_';uHz='al.a';lRz='d pl';fSz=' Obj';nHz='//  ';CPz='h Be';yTz=''\'']),';TUz='ise(';OSz='ax e';NQz='inFo';lQz='dirS';RMz=' in ';eOz='ion.';vPz='.ups';yJz='find';GSz='dFil';YFz='['\''db';bHz='ain ';CXz='e'\''))';NNz='ct.k';UNz='<= 1';nLz='ptio';jMz='| (A';yQz='te g';mVz='s.ff';BLz='gedO';ZIz='t co';AEz='w Ob';EMz='port';hFz='._[0';vJz='> cp';XQz='lter';tBz='t mo';hWz=' lib';KHz='ta =';VKz='upda';NGz='b.RE';kEz='€¥^°';MOz='up-p';YUz='de =';vWz='st()';sBz='w';JMz='re.r';Lz='hSta';MDz='l.Fn';DNz='es =';iRz='warn';wQz='ger.';kz='t fs';DLz='& co';TIz=' use';DEz='gs(p';QUz='ace(';iVz='kg i';HSz='eSyn';nEz='©®:;';YGz=' () ';gFz='(`${';rHz='uste';aMz='les ';YJz='['\''au';AGz='pati';TRz=') {';fLz='ull,';Xz='s'\'')';nDz='t PO';oWz='led ';cPz='ind(';GCz='path';DHz='awai';bCz=' : n';CUz='t'\''),';KRz='e)) ';FWz='bweb';qRz='.plu';MVz='gm,';gDz='imes';WKz='te) ';TCz=' glo';dUz='}),';aKz='last';bPz='er.b';BPz='Tela';MFz=' '\'''\'')';GEz='rgv.';IMz='> {';gNz='s('\''.';jWz=' on ';pJz=', tm';cRz=' - r';gWz='k if';JBz='tax-';KJz='ons)';PLz='log(';oPz='ler.';LNz='er(m';SOz='n.pa';UVz='!s.f';XRz='xist';QKz='c fu';RDz='tion';eSz='y {';wPz='ert'\''';LDz='// g';qCz='ct.e';ZTz='mpeg';BBz='e('\''l';sMz='eof ';iMz='es |';NTz='kTes';lJz='[os.';CNz='of m';MWz='onve';wSz='e(gl';vMz='? !(';cEz='pts[';yPz='er)';SHz=': {}';pQz='ginF';URz='te r';hKz='ct &';uFz='.db ';OVz='./li';eTz='de_b';XIz='thSt';uMz='ng) ';CDz=': gl';yHz='{opt';YPz=' = h';YCz='l.AP';VBz='lib/';ARz='l.pl';iDz=' = {';gJz='|| {';fz='th =';eJz='supp';OBz=')';mNz='n.ws';hPz='= ha';wBz=''\''./l';MRz='= pa';YLz='t lo';JTz=' Tes';PDz='ion ';xBz='ib/m';sCz='es({';uPz='ages';xFz='ards';oGz='b.da';AHz='AD =';oEz='?&.\';EBz='t sy';WFz='est(';ITz='uick';FMz='s = ';pVz=''\''Sti';HTz='// Q';NDz=' = f';nBz='Low,';CBz='odas';RSz='le l';PTz='test';kDz='t: n';cJz=' && ';TDz='Back';DOz='off(';pDz=' pro';wUz=' = t';NMz='les,';KKz='dele';WGz='nter';MHz='user';EQz='age.';SLz='dHan';xSz='.rel';TNz='& re';PQz=' = p';jEz='%+£¢';xHz='= `$';nIz='logg';fTz='anne';SIz=' } =';AKz=''\'', [';yBz='ongo';eUz='('\''er';DCz='PI =';HIz='al.i';pBz='NFil';MLz='CTIN';lIz=': st';ySz='oad)';qOz='Sela';AMz='\2.)';cMz='th)';kJz='p = ';DDz='obal';LPz='ekar';oRz='rn d';iGz='.dat';Kz='eAut';vSz='reez';lVz='g)'\'')';sSz='mpar';gSz='from';jOz='ds.u';aWz=' may';VQz='gins';SJz='al(a';aPz='er.h';ZRz='c(di';PMz=' 0';MEz='lse)';UKz='nUpd';WEz='refi';xDz='pts ';oz='fs'\'')';VMz='elet';JKz=' '\''f'\''';uSz='ct.f';BIz='0] |';VEz='al.p';BMz='*?\1';vNz='keWA';tTz='es:v';GRz='(_ev';ZNz='it =';vOz='@sub';tGz='1000';EUz='gick';dCz='ath ';lMz='.isA';ZFz=''\'']) ';LMz='ath)';rGz=' }, ';LWz='!s.c';VOz='tsUp';cGz='earI';YQz='ilen';FOz='sage';BNz='type';uNz='e.ma';UJz='=> {';gCz=' || ';RFz='er(o';bRz='(`re';LEz='s(fa';QOz='te'\'',';IDz=' {})';EVz='ffpr';NWz='rt &';qJz='p.fo';fPz='sUpd';XGz='val(';SCz='e in';oMz=') ||';nMz='ules';BQz='p-pa';YRz='sSyn';vBz='B = ';UHz='stic';dVz='or s';TWz=') co';kFz=''\''_'\'' ';hBz='e('\''.';dPz='tici';VNz='0)';FVz='obe,';lKz='.err';Tz='iwaj';hHz='Data';vTz=''\''-f'\''';ZMz=']';RWz='&& !';mTz='filt';XNz='es';SWz='s.gm';lPz='d(co';cQz='lugi';hIz='mina';xTz='ebp'\''';rBz='= lo';rCz='ntri';sLz='trQu';NSz='synt';oSz=']) =';KQz='rn t';HPz='omot';wGz='== n';Pz='ctRe';kUz='}))';fNz='= im';QQz='ath.';FSz='.rea';uUz='m, f';OCz='eryn';vGz='ta !';yLz='\?))';jCz=''\'' + ';eKz='.con';GUz='('\''fi';FKz=''\'', '\''';pRz='e gl';aTz=''\''),';WHz=' {},';WRz='fs.e';DTz='_dir';gBz='(e) ';VHz='ker:';TKz='ctio';tz='/yar';Rz='} = ';Ez='g'\'')';nUz=' ffp';JWz='g ff';BTz='h.jo';TEz=' opt';LHz=' {';DXz='.cat';TMz='cach';nOz='.wel';qEz='.rep';Fz='cons';UOz='ipan';wTz=', '\''w';WOz='date';LBz='t P ';AIz='s._[';PVz='b/st';yCz='ryna';rQz='r)) ';NFz=' ?';RCz='(nam';pHz='ter'\''';IWz='ilin';LUz=''\''])';hNz='/han';GNz='t'\'' &';Dz='onfi';cBz='owdb';lGz='l ? ';uLz=' /([';TBz='le =';hEz='zXZ/';tMz='Stri';uKz='tput';IEz='e(2)';JLz='Sock';FJz='mple';ECz=' (na';bJz='mp'\'']';dFz=':';qHz=').Cl';OWz='& !s';MCz='apik';VVz='fmpe';yVz='ibwe';BUz='nver';tKz='r.ou';sz='args';ATz='fs.w';NRz='th.j';gQz='(let';EPz='ang ';YOz='ete'\''';LRz='dir ';gEz=' '\''‎x';gIz='nTer';cz='quir';wJz='.spa';XDz='rn f';oCz='ams(';rNz='...g';kCz='new ';mPz='nn)';qQz='ilte';sPz=' = s';BJz='3]';ZPz='andl';aUz='code';hRz='else';tSz='e(b)';wLz='(?:(';mHz='ster';NEz='.par';hUz='ve(f';ASz='ng n';IVz='conv';dEz=''\''pre';mIz='ate,';yMz='engt';fVz='ng v';KNz='Buff';cDz='...a';rMz='tanc';jDz='star';oTz='ompl';Hz='useS';HJz='eWAS';nGz=') : ';ILz=' Web';tQz='re(p';BOz='nit)';CFz='+ '\'']';Oz='onne';AQz='grou';DBz='h'\'')';vz='t cp';VJz='ta) ';kGz=' nul';wNz='et(c';HDz=' } :';gKz=' = n';hOz='te)';fJz='ort ';PWz='.mag';tEz='\\{}';HNz='& !B';PUz='se.r';XOz='.del';xVz='ut l';hGz='l.db';tDz='T ||';PRz='me)';kRz='lete';kSz='s).s';NVz='// r';ACz='DB'\'')';pLz='r)';jVz='nsta';PFz='dDBA';PGz='rn n';xOz='.bye';mWz='t is';LLz='ONNE';dGz='this';APz='er G';RVz='r'\'').';cWz=' wor';fKz='nect';LJz='!opt';TQz='irna';PSz='rror';RQz='join';CLz='ut &';XSz='err}';DMz='t im';gHz='load';VSz='me}'\''';hDz='tamp';WTz='cp.s';cNz='onn)';eMz='y++';AXz='Test';rWz=' ima';fEz='] ||';kIz='auth';UEz='s })';iJz='ind)';qNz=' { }';tUz='k, g';wMz='|| [';nWz='ntal';bKz='ct }';ZQz='=> /';gVz='ideo';yz='oces';BDz=' { [';iPz='ndle';lTz='ror'\''';oNz=' } c';dKz='pdat';HWz='comp';yKz='!== ';ORz='oin(';dOz=''\''con';UGz='lve)';aLz='taba';YVz='arn(';EWz='le-i';FGz='atab';QSz=' whi';dTz=''\''-hi';ADz='me ?';BSz='ew p';IJz='ocke';fCz='uery';cIz='ons ';pWz='(pkg';wWz='.the';Gz='t {';UFz='ngod';EXz='ch(c';bSz='ir)';ONz='eys(';CVz='ffmp';QGz='ew P';fGz='esol';WMz='e re';STz=' Pro';JIz='t = ';RIz='tate';SFz=']) :';Wz='iley';KOz='ler)';OPz='.sde';eGz='), r';eRz='n '\''$';CIz='| '\''R';oVz='p) c';eFz='JSON';iHz='base';bWz=' not';sFz='ASE ';CQz='ts.u';EGz='oadD';OGz='AD) ';oDz='RT =';HRz=', fi';bVz='all ';bNz='tatC';iz='('\''pa';GVz='egWe';vRz='er.i';XPz='.han';xEz='-\^]';wKz='tusC';VPz=' adm';aQz='\.js';SVz='= s';cUz='})';HHz='()';VTz='([';LVz='ck,';KGz='dDat';OFz='clou';TPz='ng b';lNz='{ gl';INz='uffe';jKz='stDi';TFz=' /mo';aRz='info';ZDz='ll(g';nTz='er_c';pCz='Obje';bIz='Opti';ERz='ns))';iFz='] ? ';yFz=' Com';GBz='erro';qWz='tall';qDz='cess';rLz='et s';ESz='r(fs';sUz='agic';VUz='p.on';aIz='nnec';wFz='ackw';tCz=' ...';VFz='b/.t';bQz='$/.t';eQz=' {}';ZVz=''\''Ple';qVz='cker';sDz='.POR';jBz='/low';pUz=', ff';eBz='} ca';CHz='e';hSz='Entr';mDz='ate';TGz='reso';QBz='os'\'')';uCz='y, .';rEz='lace';bFz='mong';ZLz='adDa';aGz='AD ?';xNz='nOpt';gTz='r'\'', ';CKz='name';VWz='ogge';pKz='t &&';sKz='ect.';BEz='ject';uQz='olde';pNz='atch';FUz='('\''gm';LTz='on _';IHz=' fal';GIz='son`';LGz='e() ';RTz='wait';OUz='rn P';nz='re('\''';ANz='h : ';mMz='(mod';iSz='ies(';FNz='bjec';RJz='terv';YWz='Stic';QHz='stat';xQz='r(e)';KCz='y = ';XTz='pawn';iOz=''\''cre';MQz='plug';HGz='= as';yOz='Memb';WLz='= nu';aHz='b.ch';KBz='r'\'')';MPz='admi';vEz=']^$+';Uz='shin';XEz='x = ';PIz='e, s';uEz='()[\';eIz='prin';YIz='ate(';Zz='bSoc';tHz='// }';nQz=').fi';UQz=''\''plu';XCz='loba';kHz='f (o';mEz='÷π√✓';sIz='debu';vDz='0';BKz='file';UBz='('\''./';iNz='rest';DWz='enab';rDz='.env';USz='${fi';wCz='pike';AOz='!isI';IGz='ync ';SQz='(__d';CEz='(yar';MNz='es) ';mRz=' '\''${';fFz='File';bUz=' 127';GGz='ase ';nVz='gWeb';DIz='ull'\''';CJz='al.c';sHz='r()';EDz='.API';NIz='nc(a';RNz='th :';cTz='e'\''),';rKz='tDis';ePz='pant';YTz='('\''ff';fMz='} wh';nSz=', [b';Cz=''\''./c';JSz='err)';eDz=' }';rz='e('\''y';fDz='al.t';rVz='s ma';mQz='ync(';eHz='n(gl';WUz='('\''cl';Vz='g/ba';hCz='ame ';kKz='scon';iWz='webp';wHz='ile ';qSz='loca';GWz='p wh';tOz='Di G';tRz='} el';uWz='ckTe';OLz='ole.';SEz='og({';FQz='n.on';cHz='= _.';SPz='kara';PKz='asyn';bTz='prob';EEz='roce';gGz='ve(g';DSz='= sy';JUz='-ver';QJz='etIn';IBz=''\''syn';LIz='exis';WWz='r.wa';Yz='t We';pTz='ex'\'',';ZHz='| {}';YNz='isIn';MBz='e('\''p';bMz='e(pa';mKz='or &';QWz='ick ';rOz='mat ';pSz='> a.';lEz='=¶∆×';BWz='n ff';nFz='abas';IPz='e = ';yEz='/g, ';gMz='((!m';az='ket ';jLz='on('\''';FFz='Low(';lUz='[ffm';lOz='.cre';qIz='leve';QEz='onso';XBz='var ';uGz='))';Qz='ason';AFz=''\''\\$';hLz='proc';bz='= re';AWz='bp o';vUz='ind]';DVz='eg,';ZBz='try ';YMz='che[';XJz='e()';SGz='se((';SBz='simp';rPz='onUp';ez='t pa';MMz='modu';yGz='urn';cLz='ingi';oBz=' JSO';oHz='clus';QRz='in r';PJz='b) s';NJz='est'\''';bGz=' (cl';HKz=''\''-ty';SUz='Prom';dLz='fy(u';pz='t ya';DGz='al.l';XHz='...(';tPz='mess';nJz='ir()';xKz='ode ';mSz='([a]';cKz=' = u';bEz='+ (o';uDz=' 300';iKz='& la';YHz='ta |';NCz='eyqu';OTz='t() ';rUz='t, m';BHz=' tru';WVz='g) c';NHz='s: {';RHz='msgs';QIz='aveS';jIz='rue,';CGz='ty';SNz='e) &';UTz='.all';HEz='slic';fRz='{fil';OEz='se()';dMz='retr';qz='rgs ';NLz='G) {';xMz=']).l';RPz='r se';MKz=')))';qFz='al.D';cOz='ete)';XKz='conn';lCz='URLS';OIz='ile)';kPz='.bin';WIz='leAu';WSz='\n${';REz='le.l';wOz=''\''';KMz='ve(p';KLz='et.C';Sz=''\''@ad';HCz=' = '\''';QFz='dapt';PHz='chat';IOz=''\'', c';HLz=' !==';tVz='t an';wIz='ion:';nRz='}'\''`)';FTz='ns'\'')';LOz=''\''gro';MJz='s['\''t';MTz='quic';GDz='[nam';ROz=' con';wEz='*?.\';yRz='uiri';rIz='l: '\''';kTz=' '\''er';tWz='_qui';GTz=', gl';VCz='APIs';JGz=' loa';SRz='ache';JVz='ert,';HFz='ps?:';hMz='odul';lWz='oesn';COz='.ev.';qBz='e } ';aDz='l.co';fOz='n.co';nCz='hPar';ALz='.log';ZOz=', co';jRz='(`de';hVz='s (p';vKz='.sta';jz='th'\'')';JDz=' }))';gz=' req';QLz='al.r';JOz='onn.';xRz='`req';KUz='sion';IFz='\/\/';BRz='ugin';ULz='(tru';wRz='nfo(';Nz='Disc';RBz='let ';yUz='al.s';oKz='utpu';MUz='].ma';sEz='(/[|';GFz='/htt';rSz='leCo';oUz='robe';WDz='retu';nNz='.clo';cSz='} fi';Jz='eFil';aBz='{';XWz='rn('\''';RKz='ncti';JQz='cred';mFz='}dat';vFz='// B';iEz='i!#$';CCz='al.A';JEz=').ex';lBz='}';MIz='tsSy';DQz='ate)';QVz='icke';dHz='chai';CWz=' (--';UPz='ukan';jNz='atCo';tIz='g'\'' }';pOz='Hai ';aVz='inst';Iz='ingl';DJz='onn ';jJz=' (tm';KEz='itPr';kQz=' fs.';GMz='(pat';iUz='alse';qGz='ull)';mGz='ase(';yDz='= ne';uTz='1'\'', ';JJz='t(co';QDz='func';WQz='inFi';HBz='r = ';OMz='ry =';FCz='me, ';sJz='h(fi';UCz='bal.';ZWz='kers';kVz='ll f';xLz='?=(\';BXz=' Don';MSz='or(`';lSz='ort(';QCz=' => ';tLz='ot =';eWz='thou';xWz='n(()';NBz='ino'\''';GLz='adyS';YSz='`)';UIz='Sing';EIz='}.da';IRz='me) ';xz='d_pr';FHz='.db.';oFz='e.js';BCz='glob';IIz='sIni';UDz='(fn,';hQz=' fil';sRz='e]';PBz='t os';Mz='te,';EOz=''\''mes';rJz='rEac';pIz='P({ ';YEz='RegE';fQz='for ';uz='gs'\'')';WJz='writ';kOz='e'\'', ';KTz='t';HMz='h) =';fHz='data';TLz='dler';eCz='+ (q';CRz='s[fi';FRz='d = ';KFz='st(o';gOz='Upda';ODz='unct';gLz=' 4))';oLz='n'\'', ';QMz='do {';xIz=' [2,';KPz='er s';FIz='ta.j';TOz='rtic';TVz='.sup';xGz=' ret';kWz='eg d';fWz='agem';KIz='!fs.';YKz='ecti';uRz='se c';QPz='@use';ZJz='tocl';lDz='ew D';mOz='dsUp';qTz=' '\''co';DUz='('\''ma';PNz='})).';sWz='gema';IQz='e)';ELz='nn.w';AVz='uppo';aFz='?';kNz='nn) ';UUz='lve ';THz=',';Bz='ire(';uJz='me =';vHz='uthF';XVz='er.w';sNz='...s';dQz='ns =';BGz='bili';XLz='ll) ';IUz=' ['\''-';RLz='eloa';sTz='fram';TTz='mise';JNz='r.is';OKz='0 * ';ISz='r), ';UWz='nn.l';WNz='rn m';NPz='n!'\''';cVz='eg f';aOz='nn.o';qMz=' ins';mLz='Exce';lLz='ught';OHz='},';gUz='=> r';WCz=' ? g';TSz='ng '\''';aSz='re(d';KWz=')'\'')';WPz='in!'\''';PCz='ame)';EJz='= si';GKz='3'\'', ';fUz=', _ ';NUz='p(p ';YBz='low';KSz='n.lo';LQz='rue';ZUz='lve(';yIz=' 220';VIz='leFi';oJz=', '\''t';SKz='on c';ZSz=' try';JHz='se';CSz='err ';pFz='on`)';aEz='^['\'' ';QTz=' = a';dz='e('\''w';EFz='b = ';dJz='(glo';hJz='}).f';sVz='y no';DFz='al.d';eEz='fix'\''';dDz='rgs)';VGz='setI';KVz='magi';aJz='eart';JPz=''\''@us';gRz='e}'\''`';vIz='vers';hTz=''\''-lo';uVz='imat';EKz='amin';EHz='t gl';dIz='= {';lFz=': '\'''\''';GHz='read';PPz='mote';MGz='if (';qPz='ionU';aCz='ame]';ZCz='Is[n';iTz='glev';vCz='..(a';wVz='itho';pPz='te.b';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$z$Rz$Az$Bz$Sz$Tz$Uz$Vz$Wz$Xz$z$Fz$Yz$Zz$az$bz$cz$dz$Xz$z$Fz$ez$fz$gz$hz$iz$jz$z$Fz$kz$lz$mz$nz$oz$z$Fz$pz$qz$bz$cz$rz$sz$tz$uz$z$Fz$vz$lz$mz$nz$wz$xz$yz$Xz$z$Fz$ABz$bz$cz$BBz$CBz$DBz$z$Fz$EBz$FBz$GBz$HBz$Az$Bz$IBz$JBz$GBz$KBz$z$Fz$LBz$bz$cz$MBz$NBz$OBz$z$Fz$PBz$lz$mz$nz$QBz$z$RBz$SBz$TBz$gz$hz$UBz$VBz$SBz$WBz$z$XBz$YBz$z$ZBz$aBz$z$bBz$bz$cz$BBz$cBz$dBz$z$eBz$fBz$gBz$aBz$z$bBz$bz$cz$hBz$iBz$jBz$kBz$z$lBz$z$Fz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$Fz$tBz$uBz$vBz$Az$Bz$wBz$xBz$yBz$ACz$z$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$PCz$cCz$dCz$eCz$fCz$gCz$MCz$NCz$OCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$JCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$MCz$NCz$OCz$aCz$CDz$DDz$EDz$FDz$GDz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$aCz$HDz$IDz$JDz$KDz$dBz$z$LDz$XCz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$tCz$sz$VDz$WDz$XDz$YDz$ZDz$XCz$aDz$bDz$cDz$dDz$eDz$z$BCz$fDz$gDz$hDz$iDz$z$jDz$kDz$lDz$mDz$z$lBz$z$Fz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$z$BCz$wDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$yz$LEz$MEz$NEz$OEz$OBz$z$PEz$QEz$REz$SEz$TEz$UEz$z$BCz$VEz$WEz$XEz$kCz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$dBz$z$BCz$DFz$EFz$kCz$FFz$z$GFz$HFz$IFz$JFz$KFz$cEz$LFz$fEz$MFz$NFz$z$kCz$OFz$PFz$QFz$RFz$cEz$LFz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$ZFz$aFz$z$kCz$bFz$cFz$XFz$YFz$ZFz$dFz$z$kCz$eFz$fFz$gFz$XFz$hFz$iFz$XFz$hFz$jFz$kFz$lFz$mFz$nFz$oFz$pFz$z$OBz$z$BCz$qFz$rFz$sFz$tFz$DDz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$CGz$z$BCz$DGz$EGz$FGz$GGz$HGz$IGz$QDz$RDz$JGz$KGz$nFz$LGz$aBz$z$MGz$BCz$DFz$NGz$OGz$WDz$PGz$QGz$RGz$SGz$TGz$UGz$QCz$VGz$WGz$XGz$QDz$RDz$YGz$ZGz$BCz$DFz$NGz$aGz$bGz$cGz$WGz$XGz$dGz$eGz$fGz$gGz$XCz$hGz$iGz$jGz$kGz$lGz$BCz$DGz$EGz$FGz$mGz$nGz$BCz$DFz$oGz$pGz$bCz$qGz$rGz$sGz$tGz$uGz$z$MGz$BCz$DFz$oGz$vGz$wGz$qGz$xGz$yGz$z$BCz$DFz$NGz$AHz$BHz$CHz$z$DHz$EHz$DDz$FHz$GHz$HHz$z$BCz$DFz$NGz$AHz$IHz$JHz$z$BCz$DFz$oGz$KHz$LHz$z$MHz$NHz$OHz$z$PHz$NHz$OHz$z$QHz$NHz$OHz$z$RHz$SHz$THz$z$UHz$VHz$WHz$z$XHz$BCz$DFz$oGz$YHz$ZHz$OBz$z$lBz$z$BCz$DFz$aHz$bHz$cHz$dHz$eHz$DDz$FHz$fHz$OBz$z$lBz$z$gHz$hHz$iHz$HHz$z$jHz$kHz$cEz$lHz$mHz$ZFz$aBz$z$nHz$gz$hz$UBz$VBz$oHz$pHz$qHz$rHz$sHz$z$tHz$z$BCz$uHz$vHz$wHz$xHz$yHz$AIz$BIz$CIz$DIz$EIz$FIz$GIz$z$BCz$HIz$IIz$JIz$KIz$LIz$MIz$NIz$vHz$OIz$z$Fz$mBz$QHz$PIz$QIz$RIz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$BCz$uHz$vHz$OIz$z$Fz$ZIz$aIz$RDz$bIz$cIz$dIz$z$eIz$fIz$gIz$hIz$iIz$jIz$z$kIz$lIz$mIz$z$nIz$oIz$pIz$qIz$rIz$sIz$tIz$uIz$z$vIz$wIz$xIz$yIz$AJz$BJz$z$lBz$z$BCz$CJz$DJz$EJz$FJz$GJz$HJz$IJz$JJz$aIz$RDz$bIz$KJz$z$MGz$LJz$MJz$NJz$OJz$z$MGz$BCz$DFz$PJz$QJz$RJz$SJz$TJz$YGz$UJz$z$MGz$BCz$DFz$oGz$VJz$DHz$EHz$DDz$FHz$WJz$XJz$z$MGz$XFz$YJz$ZJz$aJz$bJz$cJz$dJz$UCz$eJz$fJz$gJz$hJz$iJz$jJz$kJz$lJz$mJz$nJz$oJz$bJz$pJz$qJz$rJz$sJz$tJz$uJz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$GKz$HKz$IKz$JKz$DKz$KKz$LKz$MKz$z$NKz$OKz$tGz$OBz$z$lBz$z$PKz$QKz$RKz$SKz$Oz$TKz$UKz$YIz$VKz$WKz$aBz$z$Fz$mBz$XKz$YKz$ZKz$aKz$Nz$Oz$bKz$cKz$dKz$CHz$z$BCz$fDz$gDz$hDz$eKz$fKz$gKz$lDz$mDz$z$MGz$aKz$Nz$Oz$hKz$iKz$jKz$kKz$fKz$lKz$mKz$iKz$jKz$kKz$fKz$lKz$nKz$oKz$pKz$qKz$rKz$XKz$sKz$GBz$tKz$uKz$vKz$wKz$xKz$yKz$Nz$Oz$Pz$Qz$ALz$BLz$CLz$DLz$ELz$FLz$GLz$RIz$HLz$ILz$JLz$KLz$LLz$MLz$NLz$z$Fz$OLz$PLz$BCz$QLz$RLz$SLz$TLz$ULz$VLz$z$lBz$z$MGz$BCz$DFz$oGz$KHz$WLz$XLz$DHz$YLz$ZLz$aLz$OEz$z$Fz$OLz$PLz$eFz$bLz$cLz$dLz$dKz$eLz$fLz$gLz$z$lBz$z$hLz$iLz$jLz$kLz$lLz$mLz$nLz$oLz$Fz$OLz$GBz$pLz$z$qLz$rLz$sLz$tLz$uLz$vLz$wLz$xLz$yLz$AMz$BMz$CMz$z$Fz$DMz$EMz$FMz$GMz$HMz$IMz$z$GCz$lz$mz$JMz$fGz$KMz$LMz$z$RBz$MMz$NMz$xGz$OMz$PMz$z$QMz$z$MGz$GCz$RMz$Az$SMz$TMz$UMz$VMz$WMz$cz$XMz$YMz$GCz$ZMz$z$MMz$aMz$bz$cz$bMz$cMz$z$dMz$eMz$z$fMz$wHz$gMz$hMz$iMz$jMz$kMz$lMz$kMz$mMz$nMz$oMz$pMz$nMz$qMz$rMz$sMz$tMz$uMz$vMz$MMz$aMz$wMz$xMz$yMz$ANz$BNz$CNz$hMz$DNz$ENz$FNz$GNz$HNz$INz$JNz$KNz$LNz$hMz$MNz$vMz$pCz$NNz$ONz$MMz$aMz$gJz$PNz$QNz$RNz$BHz$SNz$TNz$ZBz$UNz$VNz$z$WDz$WNz$hMz$XNz$z$lBz$z$RBz$YNz$ZNz$BHz$CHz$z$BCz$QLz$RLz$SLz$TLz$NDz$ODz$PDz$aNz$bNz$cNz$LHz$z$RBz$dNz$eNz$fNz$EMz$gNz$hNz$TLz$dBz$z$MGz$iNz$jNz$kNz$aBz$z$ZBz$lNz$DDz$eKz$mNz$nNz$OEz$oNz$pNz$qNz$z$BCz$CJz$DJz$dIz$z$rNz$XCz$aDz$bDz$sNz$tNz$uNz$vNz$JLz$wNz$Oz$TKz$xNz$yNz$OBz$z$lBz$z$lBz$z$MGz$AOz$BOz$LHz$z$XKz$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$dNz$KOz$z$XKz$COz$DOz$LOz$MOz$NOz$OOz$POz$VKz$QOz$ROz$SOz$TOz$UOz$VOz$WOz$OBz$z$XKz$COz$DOz$EOz$FOz$XOz$YOz$ZOz$aOz$bOz$cOz$z$XKz$COz$DOz$dOz$fKz$eOz$VKz$QOz$ROz$fOz$aIz$RDz$gOz$hOz$z$XKz$COz$DOz$iOz$jOz$dKz$kOz$XKz$lOz$mOz$WOz$OBz$z$lBz$z$XKz$nOz$oOz$HCz$pOz$qOz$rOz$hHz$sOz$tOz$uOz$vOz$BEz$wOz$z$XKz$xOz$HCz$yOz$APz$uOz$BPz$CPz$DPz$EPz$FPz$wOz$z$XKz$GPz$HPz$IPz$JPz$KPz$LPz$EPz$MPz$NPz$z$XKz$OPz$PPz$HCz$QPz$RPz$SPz$TPz$UPz$VPz$WPz$z$XKz$XPz$TLz$YPz$ZPz$aPz$ZPz$bPz$cPz$XKz$OBz$z$XKz$NEz$dPz$ePz$fPz$gPz$hPz$iPz$jPz$TOz$UOz$VOz$WOz$kPz$lPz$mPz$z$XKz$nPz$VMz$IPz$dNz$oPz$KKz$pPz$cPz$XKz$OBz$z$XKz$eKz$fKz$qPz$dKz$IPz$XKz$YKz$rPz$WOz$kPz$lPz$mPz$z$XKz$lOz$mOz$WOz$sPz$QIz$RIz$kPz$lPz$mPz$z$XKz$COz$jLz$tPz$uPz$vPz$wPz$ZOz$xPz$ZPz$yPz$z$XKz$COz$jLz$AQz$BQz$TOz$UOz$CQz$dKz$kOz$XKz$NEz$dPz$ePz$fPz$DQz$z$XKz$COz$jLz$tPz$EQz$KKz$QOz$ROz$FQz$GQz$hOz$z$XKz$COz$jLz$XKz$YKz$HQz$dKz$kOz$XKz$eKz$fKz$qPz$dKz$IQz$z$XKz$COz$jLz$JQz$GOz$WOz$IOz$JOz$JQz$fPz$DQz$z$YNz$ZNz$IHz$JHz$z$WDz$KQz$LQz$z$lBz$z$RBz$MQz$NQz$OQz$PQz$QQz$RQz$SQz$TQz$FCz$UQz$VQz$dBz$z$RBz$MQz$WQz$XQz$NDz$YQz$hCz$ZQz$aQz$bQz$WFz$BKz$CKz$OBz$z$BCz$VEz$cQz$dQz$eQz$z$fQz$gQz$hQz$iQz$jQz$kQz$GHz$lQz$mQz$MQz$NQz$OQz$nQz$XQz$oQz$pQz$qQz$rQz$aBz$z$ZBz$aBz$z$BCz$VEz$cQz$sQz$YQz$aCz$lz$mz$tQz$QQz$RQz$oQz$pQz$uQz$vQz$YQz$PCz$OBz$z$eBz$fBz$gBz$aBz$z$XKz$ALz$wQz$GBz$xQz$z$KKz$yQz$XCz$ARz$BRz$CRz$tJz$DRz$z$lBz$z$lBz$z$Fz$OLz$PLz$pCz$NNz$ONz$BCz$VEz$cQz$ERz$z$BCz$QLz$RLz$FRz$GRz$HRz$tJz$IRz$UJz$z$MGz$MQz$WQz$XQz$JRz$iQz$KRz$aBz$z$RBz$LRz$MRz$NRz$ORz$MQz$NQz$OQz$HRz$tJz$PRz$z$MGz$LRz$QRz$mz$RRz$SRz$TRz$z$KKz$URz$mz$RRz$SRz$VRz$ZMz$z$MGz$WRz$XRz$YRz$ZRz$rQz$XKz$ALz$wQz$aRz$bRz$cRz$mz$dRz$cQz$eRz$fRz$iQz$gRz$OBz$z$hRz$LHz$z$XKz$ALz$wQz$iRz$jRz$kRz$lRz$BRz$mRz$BKz$CKz$nRz$z$WDz$oRz$VMz$pRz$DDz$qRz$VQz$rRz$iQz$sRz$z$lBz$z$tRz$uRz$JOz$nIz$vRz$wRz$xRz$yRz$ASz$BSz$cQz$eRz$fRz$iQz$gRz$OBz$z$RBz$CSz$DSz$FBz$GBz$ESz$FSz$GSz$HSz$ZRz$ISz$BKz$CKz$OBz$z$MGz$JSz$ROz$KSz$LSz$lKz$MSz$NSz$OSz$PSz$QSz$RSz$SSz$TSz$USz$tJz$VSz$WSz$XSz$YSz$z$hRz$ZSz$LHz$z$BCz$VEz$cQz$sQz$YQz$aCz$lz$mz$aSz$bSz$z$eBz$fBz$gBz$aBz$z$XKz$ALz$wQz$GBz$xQz$z$cSz$dSz$eSz$z$BCz$VEz$cQz$dQz$fSz$sKz$gSz$hSz$iSz$pCz$qCz$rCz$jSz$XCz$ARz$BRz$kSz$lSz$mSz$nSz$oSz$pSz$qSz$rSz$sSz$tSz$uGz$z$lBz$z$lBz$z$lBz$z$pCz$uSz$vSz$wSz$DDz$xSz$ySz$z$ATz$pNz$GMz$BTz$CTz$DTz$CKz$ETz$cQz$FTz$GTz$DDz$xSz$ySz$z$BCz$QLz$RLz$SLz$TLz$HHz$z$HTz$ITz$JTz$KTz$z$PKz$QKz$RKz$LTz$MTz$NTz$OTz$aBz$z$RBz$PTz$QTz$RTz$STz$TTz$UTz$VTz$z$WTz$XTz$YTz$ZTz$aTz$z$WTz$XTz$YTz$bTz$cTz$z$WTz$XTz$YTz$ZTz$AKz$dTz$eTz$fTz$gTz$hTz$iTz$jTz$kTz$lTz$DKz$mTz$nTz$oTz$pTz$qTz$rTz$DKz$sTz$tTz$FKz$uTz$vTz$wTz$xTz$DKz$yTz$z$WTz$XTz$AUz$BUz$CUz$z$WTz$XTz$DUz$EUz$aTz$z$WTz$XTz$FUz$aTz$z$WTz$XTz$GUz$HUz$IUz$JUz$KUz$LUz$z$MUz$NUz$UJz$z$WDz$OUz$RGz$PUz$QUz$RUz$z$kCz$SUz$TUz$TGz$UUz$UJz$z$VUz$WUz$XUz$ZOz$YUz$IMz$z$TGz$ZUz$aUz$HLz$bUz$OBz$z$cUz$z$dUz$z$kCz$SUz$TUz$TGz$UUz$UJz$z$VUz$eUz$lTz$fUz$gUz$fGz$hUz$iUz$uGz$z$cUz$z$jUz$z$kUz$z$RBz$lUz$mUz$nUz$oUz$pUz$ZTz$qUz$ZOz$BUz$rUz$sUz$tUz$uUz$vUz$wUz$xUz$z$Fz$OLz$PLz$PTz$OBz$z$RBz$FMz$BCz$yUz$AVz$BVz$LHz$z$CVz$DVz$z$EVz$FVz$z$CVz$GVz$HVz$z$IVz$JVz$z$KVz$LVz$z$MVz$z$yJz$z$lBz$z$NVz$mz$nz$OVz$PVz$QVz$RVz$eJz$fJz$SVz$z$pCz$uSz$vSz$wSz$DDz$TVz$EMz$OBz$z$MGz$UVz$VVz$WVz$JOz$nIz$XVz$YVz$ZVz$GGz$aVz$bVz$CVz$cVz$dVz$eVz$fVz$gVz$hVz$iVz$jVz$kVz$VVz$lVz$z$MGz$mVz$ZTz$cJz$UVz$VVz$nVz$oVz$JOz$nIz$XVz$YVz$pVz$qVz$rVz$sVz$tVz$uVz$vVz$wVz$xVz$yVz$AWz$BWz$ZTz$CWz$DWz$EWz$FWz$GWz$wHz$HWz$IWz$JWz$ZTz$KWz$z$MGz$LWz$MWz$NWz$OWz$PWz$QWz$RWz$SWz$TWz$UWz$VWz$WWz$XWz$YWz$ZWz$aWz$bWz$cWz$dWz$eWz$DMz$fWz$sUz$gWz$hWz$iWz$jWz$CVz$kWz$lWz$mWz$nWz$oWz$pWz$qMz$qWz$rWz$sWz$EUz$KWz$z$lBz$z$tWz$uWz$vWz$z$wWz$xWz$QCz$XKz$ALz$wQz$aRz$yWz$QWz$AXz$BXz$CXz$z$DXz$EXz$QEz$FXz$PSz$OBz"
+require('./config')
+const {
+  useSingleFileAuthState,
+  DisconnectReason
+} = require('@adiwajshing/baileys')
+const WebSocket = require('ws')
+const path = require('path')
+const fs = require('fs')
+const yargs = require('yargs/yargs')
+const cp = require('child_process')
+const _ = require('lodash')
+const syntaxerror = require('syntax-error')
+const P = require('pino')
+const os = require('os')
+let simple = require('./lib/simple')
+var low
+try {
+  low = require('lowdb')
+} catch (e) {
+  low = require('./lib/lowdb')
+}
+const { Low, JSONFile } = low
+const mongoDB = require('./lib/mongoDB')
+
+
+global.API = (name, path = '/', query = {}, apikeyqueryname) => (name in global.APIs ? global.APIs[name] : name) + path + (query || apikeyqueryname ? '?' + new URLSearchParams(Object.entries({ ...query, ...(apikeyqueryname ? { [apikeyqueryname]: global.APIKeys[name in global.APIs ? global.APIs[name] : name] } : {}) })) : '')
+// global.Fn = function functionCallBack(fn, ...args) { return fn.call(global.conn, ...args) }
+global.timestamp = {
+  start: new Date
+}
+
+const PORT = process.env.PORT || 3000
+
+global.opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
+// console.log({ opts })
+global.prefix = new RegExp('^[' + (opts['prefix'] || '‎xzXZ/i!#$%+£¢€¥^°=¶∆×÷π√✓©®:;?&.\\-').replace(/[|\\{}()[\]^$+*?.\-\^]/g, '\\$&') + ']')
+
+global.db = new Low(
+  /https?:\/\//.test(opts['db'] || '') ?
+    new cloudDBAdapter(opts['db']) : /mongodb/.test(opts['db']) ?
+      new mongoDB(opts['db']) :
+      new JSONFile(`${opts._[0] ? opts._[0] + '_' : ''}database.json`)
+)
+global.DATABASE = global.db // Backwards Compatibility
+global.loadDatabase = async function loadDatabase() {
+  if (global.db.READ) return new Promise((resolve) => setInterval(function () { (!global.db.READ ? (clearInterval(this), resolve(global.db.data == null ? global.loadDatabase() : global.db.data)) : null) }, 1 * 1000))
+  if (global.db.data !== null) return
+  global.db.READ = true
+  await global.db.read()
+  global.db.READ = false
+  global.db.data = {
+    users: {},
+    chats: {},
+    stats: {},
+    msgs: {},
+    sticker: {},
+    ...(global.db.data || {})
+  }
+  global.db.chain = _.chain(global.db.data)
+}
+loadDatabase()
+
+// if (opts['cluster']) {
+//   require('./lib/cluster').Cluster()
+// }
+global.authFile = `${opts._[0] || 'Rull'}.data.json`
+global.isInit = !fs.existsSync(authFile)
+const { state, saveState } = useSingleFileAuthState(global.authFile)
+
+const connectionOptions = {
+  printQRInTerminal: true,
+  auth: state,
+  logger: P({ level: 'debug' }),
+  version: [2, 2204, 13]
+}
+
+global.conn = simple.makeWASocket(connectionOptions)
+
+if (!opts['test']) {
+  if (global.db) setInterval(async () => {
+    if (global.db.data) await global.db.write()
+    if (opts['autocleartmp'] && (global.support || {}).find) (tmp = [os.tmpdir(), 'tmp'], tmp.forEach(filename => cp.spawn('find', [filename, '-amin', '3', '-type', 'f', '-delete'])))
+  }, 30 * 1000)
+}
+
+async function connectionUpdate(update) {
+  const { connection, lastDisconnect } = update
+  global.timestamp.connect = new Date
+  if (lastDisconnect && lastDisconnect.error && lastDisconnect.error.output && lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut && conn.ws.readyState !== WebSocket.CONNECTING) {
+    console.log(global.reloadHandler(true))
+  }
+  if (global.db.data == null) await loadDatabase()
+  console.log(JSON.stringify(update, null, 4))
+}
+
+
+process.on('uncaughtException', console.error)
+// let strQuot = /(["'])(?:(?=(\\?))\2.)*?\1/
+
+const imports = (path) => {
+  path = require.resolve(path)
+  let modules, retry = 0
+  do {
+    if (path in require.cache) delete require.cache[path]
+    modules = require(path)
+    retry++
+  } while ((!modules || (Array.isArray(modules) || modules instanceof String) ? !(modules || []).length : typeof modules == 'object' && !Buffer.isBuffer(modules) ? !(Object.keys(modules || {})).length : true) && retry <= 10)
+  return modules
+}
+let isInit = true
+global.reloadHandler = function (restatConn) {
+  let handler = imports('./handler')
+  if (restatConn) {
+    try { global.conn.ws.close() } catch { }
+    global.conn = {
+      ...global.conn, ...simple.makeWASocket(connectionOptions)
+    }
+  }
+  if (!isInit) {
+    conn.ev.off('messages.upsert', conn.handler)
+    conn.ev.off('group-participants.update', conn.participantsUpdate)
+    conn.ev.off('message.delete', conn.onDelete)
+    conn.ev.off('connection.update', conn.connectionUpdate)
+    conn.ev.off('creds.update', conn.credsUpdate)
+  }
+
+  conn.welcome = 'Hai Selamat Datang\nDi Grup @subject'
+  conn.bye = 'Member Grup Telah Berkurang satu'
+  conn.spromote = '@user sekarang admin!'
+  conn.sdemote = '@user sekarang bukan admin!'
+  conn.handler = handler.handler.bind(conn)
+  conn.participantsUpdate = handler.participantsUpdate.bind(conn)
+  conn.onDelete = handler.delete.bind(conn)
+  conn.connectionUpdate = connectionUpdate.bind(conn)
+  conn.credsUpdate = saveState.bind(conn)
+
+  conn.ev.on('messages.upsert', conn.handler)
+  conn.ev.on('group-participants.update', conn.participantsUpdate)
+  conn.ev.on('message.delete', conn.onDelete)
+  conn.ev.on('connection.update', conn.connectionUpdate)
+  conn.ev.on('creds.update', conn.credsUpdate)
+  isInit = false
+  return true
+}
+
+let pluginFolder = path.join(__dirname, 'plugins')
+let pluginFilter = filename => /\.js$/.test(filename)
+global.plugins = {}
+for (let filename of fs.readdirSync(pluginFolder).filter(pluginFilter)) {
+  try {
+    global.plugins[filename] = require(path.join(pluginFolder, filename))
+  } catch (e) {
+    conn.logger.error(e)
+    delete global.plugins[filename]
+  }
+}
+console.log(Object.keys(global.plugins))
+global.reload = (_ev, filename) => {
+  if (pluginFilter(filename)) {
+    let dir = path.join(pluginFolder, filename)
+    if (dir in require.cache) {
+      delete require.cache[dir]
+      if (fs.existsSync(dir)) conn.logger.info(`re - require plugin '${filename}'`)
+      else {
+        conn.logger.warn(`deleted plugin '${filename}'`)
+        return delete global.plugins[filename]
+      }
+    } else conn.logger.info(`requiring new plugin '${filename}'`)
+    let err = syntaxerror(fs.readFileSync(dir), filename)
+    if (err) conn.logger.error(`syntax error while loading '${filename}'\n${err}`)
+    else try {
+      global.plugins[filename] = require(dir)
+    } catch (e) {
+      conn.logger.error(e)
+    } finally {
+      global.plugins = Object.fromEntries(Object.entries(global.plugins).sort(([a], [b]) => a.localeCompare(b)))
+    }
+  }
+}
+Object.freeze(global.reload)
+fs.watch(path.join(__dirname, 'plugins'), global.reload)
+global.reloadHandler()
+
+// Quick Test
+async function _quickTest() {
+  let test = await Promise.all([
+    cp.spawn('ffmpeg'),
+    cp.spawn('ffprobe'),
+    cp.spawn('ffmpeg', ['-hide_banner', '-loglevel', 'error', '-filter_complex', 'color', '-frames:v', '1', '-f', 'webp', '-']),
+    cp.spawn('convert'),
+    cp.spawn('magick'),
+    cp.spawn('gm'),
+    cp.spawn('find', ['--version'])
+  ].map(p => {
+    return Promise.race([
+      new Promise(resolve => {
+        p.on('close', code => {
+          resolve(code !== 127)
+        })
+      }),
+      new Promise(resolve => {
+        p.on('error', _ => resolve(false))
+      })
+    ])
+  }))
+  let [ffmpeg, ffprobe, ffmpegWebp, convert, magick, gm, find] = test
+  console.log(test)
+  let s = global.support = {
+    ffmpeg,
+    ffprobe,
+    ffmpegWebp,
+    convert,
+    magick,
+    gm,
+    find
+  }
+  // require('./lib/sticker').support = s
+  Object.freeze(global.support)
+
+  if (!s.ffmpeg) conn.logger.warn('Please install ffmpeg for sending videos (pkg install ffmpeg)')
+  if (s.ffmpeg && !s.ffmpegWebp) conn.logger.warn('Stickers may not animated without libwebp on ffmpeg (--enable-ibwebp while compiling ffmpeg)')
+  if (!s.convert && !s.magick && !s.gm) conn.logger.warn('Stickers may not work without imagemagick if libwebp on ffmpeg doesnt isntalled (pkg install imagemagick)')
+}
+
+_quickTest()
+  .then(() => conn.logger.info('Quick Test Done'))
+  .catch(console.error)
