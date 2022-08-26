@@ -1,3 +1,70 @@
-z="
-";XDz='ter(';eFz=' rl.';OEz='nts)';HCz='le'\'',';uEz='(arg';AEz='ch (';SDz='agen';HDz='argv';Jz='ter ';TEz=''\'':';BCz='['\''ye';dEz='e =>';oFz=', li';qBz='ck'\'',';fz='onts';HBz='ss.s';hCz='*/';CDz='rgv.';JDz=' ...';Ez='rtin';nEz=' ===';IDz='[0],';eCz='/to/';GEz='p.ki';UDz='ter.';bBz='{';aBz='L'\'', ';aCz=' {St';ABz='terf';dDz='rnam';Rz='equi';mDz='()';pz='e('\''y';uFz=')';NEz='gume';KEz='ply(';UEz='p.se';KDz='].jo';NFz='ce(2';CBz='proc';UCz='* St';CFz='rgs[';dBz='rs: ';BBz='ace(';Az='cons';ADz='...p';Xz='pack';mEz='code';UBz='CFon';LBz='NODE';aDz='th.j';MCz=''\'',';kFz='p.em';lBz='],  ';nBz='  fo';WBz='ay('\''';bDz='oin(';vEz='s[0]';ZBz=' RUL';tBz='cent';VCz='art ';RCz='fals';uDz='CEIV';ECz='font';Vz='uire';hz='ts'\'')';sCz='true';wBz='ay(`';YCz='* @p';tCz=' = [';OCz='isRu';vDz='ED]'\''';mFz='mess';DBz='ess.';Uz=' req';kBz='ght'\''';Yz='age ';XCz=' fil';jCz='tion';QBz='THOR';wFz='ain.';DFz='0])';NCz='var ';bz='kage';HFz=' = n';UFz='))';fDz=',';BEz=') {';RDz=', '\''m';cDz='__di';YDz='exec';XBz='BOT ';jBz='wBri';KCz=' '\''ce';vz='eadl';qz='args';EEz='set'\''';WFz='s['\''t';SCz='e';mCz='ile)';ZCz='aram';VEz='nd(p';LFz='rgs(';wz='ine.';WCz='a js';mBz='    ';WEz='ss.u';rBz='alig';nFz='age'\''';sz='gs'\'')';LDz='in('\''';yCz='e), ';iBz='ello';rDz='data';GCz='onso';EBz='stdi';pCz='g) r';PBz='UNAU';jz='adli';OBz='ECT_';hDz='gs.s';PFz='xitP';mz='ne'\'')';pFz='ne.t';gBz='ight';FDz=']';oz='rgs ';Iz='clus';RFz='alse';XFz='est'\''';oCz='if (';Bz='ole.';MBz='_TLS';nCz=' {';dFz='t())';yz='teIn';YBz='BY\n';xEz='fs.u';wDz=', da';kz='ne =';MEz=', ar';gCz='`';qDz='e'\'', ';pDz='ssag';ZEz='}';KFz='t(ya';XEz='ptim';sDz=' => ';rCz='n';xz='crea';CEz='case';tDz=''\''[RE';eDz='e, f';QFz='ss(f';LEz='this';MDz=' '\''),';Gz=''\'')';DDz='slic';FFz='le)';kDz='p = ';eBz='['\''bl';VFz='!opt';PCz='nnin';Zz='e('\''.';yEz='nwat';qFz='rim(';OFz=')).e';SFz=').pa';cEz=' cod';SEz='time';aEz='('\''ex';ZDz=': pa';GBz='roce';EDz='e(2)';REz=' '\''up';Lz='quir';iDz='lice';TDz='ta'\'']';gEz='xite';LCz='nter';VBz='ts.s';HEz='ll()';fEz='r('\''E';oBz='nt: ';Fz='g...';bEz='it'\'',';PEz='brea';vFz='t('\''m';yDz='swit';TFz='rse(';JFz='bjec';xCz='ame,';YFz='])';jEz='ode:';vCz='n(__';iEz='th c';Nz='lust';qCz='etur';EFz='t(fi';qEz='rn';ez='t CF';TCz='/**';dCz='le `';FBz='n, p';kCz=' sta';QDz='red'\''';sBz='n: '\''';cz='.jso';gz='cfon';Mz='e('\''c';NBz='_REJ';iFz='ine ';cFz='Coun';gFz='line';AFz='chFi';wCz='dirn';FCz=': '\''c';sEz='atch';rEz='fs.w';gDz=': ar';hFz=''\'', l';GFz='opts';Oz='er'\'')';sFz='le.l';uCz='.joi';GDz='ay([';hBz=''\'','\''y';ICz='  al';xDz='ta)';DEz=' '\''re';iz='t Re';IFz='ew O';bFz='ener';bCz='ring';tFz='og(p';TBz='0"';BDz='ss.a';RBz='IZED';lz='('\''re';oEz=' 0) ';VDz='setu';lCz='rt(f';iCz='func';eEz='erro';jFz='=> {';aFz='list';xBz='BY R';rFz='// c';IBz='tdou';NDz='grad';lDz='fork';JEz='t.ap';rz='/yar';JCz='ign:';uBz='er'\'',';cBz='colo';jDz='(1),';fBz='ueBr';JBz='t)';CCz='llow';nDz='p.on';PDz=': ['\''';Qz=' = r';fFz='on('\''';Cz='log(';vBz='})';YEz='e())';pBz=''\''blo';wEz=', ()';hEz='d wi';yBz='ULL`';xFz='js'\'')';IEz='star';uz=' = R';dz='n'\'')';SBz=' = "';ZFz='!rl.';fCz='file';FEz=':';QEz='k';lFz='it('\''';ACz=', {';nz='t ya';DCz=''\''],';Hz='let ';Dz=''\''Sta';Kz='= re';QCz='g = ';Pz='path';cCz='} fi';pEz='retu';WDz='pMas';ODz='ient';Sz='re('\''';lEz='ode)';KBz='env.';MFz='.sli';tz='t rl';oDz='('\''me';Wz='('\''fs';az='/pac';kEz=''\'', c';BFz='le(a';tEz='File';Tz='fs =';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$z$Hz$Pz$Qz$Rz$Sz$Pz$Gz$z$Hz$Tz$Uz$Vz$Wz$Gz$z$Hz$Xz$Yz$Kz$Lz$Zz$az$bz$cz$dz$z$Az$ez$fz$Qz$Rz$Sz$gz$hz$z$Az$iz$jz$kz$Uz$Vz$lz$jz$mz$z$Az$nz$oz$Kz$Lz$pz$qz$rz$sz$z$Az$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$z$CBz$DBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$z$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$mBz$mBz$mBz$mBz$mBz$mBz$mBz$mBz$nBz$oBz$pBz$qBz$z$rBz$sBz$tBz$uBz$z$vBz$z$UBz$VBz$wBz$xBz$yBz$ACz$z$cBz$dBz$BCz$CCz$DCz$z$ECz$FCz$GCz$HCz$mBz$mBz$mBz$mBz$mBz$mBz$mBz$mBz$mBz$mBz$mBz$mBz$mBz$mBz$mBz$ICz$JCz$KCz$LCz$MCz$z$vBz$z$NCz$OCz$PCz$QCz$RCz$SCz$z$TCz$z$UCz$VCz$WCz$XCz$SCz$z$YCz$ZCz$aCz$bCz$cCz$dCz$Pz$eCz$fCz$gCz$z$hCz$z$iCz$jCz$kCz$lCz$mCz$nCz$z$oCz$OCz$PCz$pCz$qCz$rCz$z$OCz$PCz$QCz$sCz$z$Hz$qz$tCz$Pz$uCz$vCz$wCz$xCz$XCz$yCz$ADz$GBz$BDz$CDz$DDz$EDz$FDz$z$UBz$VBz$GDz$CBz$DBz$HDz$IDz$JDz$qz$KDz$LDz$MDz$nCz$z$ECz$FCz$GCz$HCz$z$rBz$sBz$tBz$uBz$z$NDz$ODz$PDz$QDz$RDz$SDz$TDz$z$vBz$z$Iz$UDz$VDz$WDz$XDz$bBz$z$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$mCz$fDz$z$qz$gDz$hDz$iDz$jDz$z$vBz$z$Hz$kDz$Iz$UDz$lDz$mDz$z$nDz$oDz$pDz$qDz$rDz$sDz$bBz$z$Az$Bz$Cz$tDz$uDz$vDz$wDz$xDz$z$yDz$AEz$rDz$BEz$z$CEz$DEz$EEz$FEz$z$GEz$HEz$z$OCz$PCz$QCz$RCz$SCz$z$IEz$JEz$KEz$LEz$MEz$NEz$OEz$z$PEz$QEz$z$CEz$REz$SEz$TEz$z$UEz$VEz$GBz$WEz$XEz$YEz$z$PEz$QEz$z$ZEz$z$vBz$z$nDz$aEz$bEz$cEz$dEz$nCz$z$OCz$PCz$QCz$RCz$SCz$z$Az$Bz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$z$oCz$mEz$nEz$oEz$pEz$qEz$z$rEz$sEz$tEz$uEz$vEz$wEz$sDz$bBz$z$xEz$yEz$AFz$BFz$CFz$DFz$z$IEz$EFz$FFz$z$vBz$z$vBz$z$Hz$GFz$HFz$IFz$JFz$KFz$LFz$CBz$DBz$HDz$MFz$NFz$OFz$PFz$GBz$QFz$RFz$SFz$TFz$UFz$z$oCz$VFz$WFz$XFz$YFz$z$oCz$ZFz$aFz$bFz$cFz$dFz$eFz$fFz$gFz$hFz$iFz$jFz$z$kFz$lFz$mFz$nFz$oFz$pFz$qFz$UFz$z$vBz$z$rFz$GCz$sFz$tFz$uFz$z$ZEz$z$IEz$vFz$wFz$xFz"
+console.log('Starting...')
+let cluster = require('cluster')
+let path = require('path')
+let fs = require('fs')
+let package = require('./package.json')
+const CFonts = require('cfonts')
+const Readline = require('readline')
+const yargs = require('yargs/yargs')
+const rl = Readline.createInterface(process.stdin, process.stdout)
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0"
+
+CFonts.say('BOT BY\n RULL', {
+  colors: ['blueBright','yellowBright'],                                        font: 'block',
+  align: 'center',
+})
+CFonts.say(`BY RULL`, {                                            
+colors: ['yellow'],                                                           
+font: 'console',                                                              align: 'center',
+})
+
+var isRunning = false
+/**
+ * Start a js file
+ * @param {String} file `path/to/file`
+ */
+function start(file) {
+  if (isRunning) return
+  isRunning = true
+  let args = [path.join(__dirname, file), ...process.argv.slice(2)]
+  CFonts.say([process.argv[0], ...args].join(' '), {
+    font: 'console',
+    align: 'center',
+    gradient: ['red', 'magenta']
+  })
+  cluster.setupMaster({
+    exec: path.join(__dirname, file),
+    args: args.slice(1),
+  })
+  let p = cluster.fork()
+  p.on('message', data => {
+    console.log('[RECEIVED]', data)
+    switch (data) {
+      case 'reset':
+        p.kill()
+        isRunning = false
+        start.apply(this, arguments)
+        break
+      case 'uptime':
+        p.send(process.uptime())
+        break
+    }
+  })
+  p.on('exit', code => {
+    isRunning = false
+    console.error('Exited with code:', code)
+    if (code === 0) return
+    fs.watchFile(args[0], () => {
+      fs.unwatchFile(args[0])
+      start(file)
+    })
+  })
+  let opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
+  if (!opts['test'])
+    if (!rl.listenerCount()) rl.on('line', line => {
+      p.emit('message', line.trim())
+    })
+  // console.log(p)
+}
+
+start('main.js')
